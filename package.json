@@ -1,0 +1,24 @@
+{
+  "name": "sandbox-shipjs",
+  "version": "0.0.0",
+  "description": "This is sandbox of shipjs",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "release:prepare": "shipjs prepare",
+    "release:trigger": "shipjs trigger"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazupon/sandbox-shipjs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kazupon/sandbox-shipjs/issues"
+  },
+  "homepage": "https://github.com/kazupon/sandbox-shipjs#readme",
+  "devDependencies": {
+    "shipjs": "^0.8.0"
+  }
+}
