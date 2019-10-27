@@ -1,7 +1,7 @@
 module.exports = {
   publishCommand: () => 'echo dummy publish!',
   mergeStrategy: {
-    toSameBranch: ['dev'],
+    toSameBranch: ['legacy'],
     toReleaseBranch: {
       dev: 'master'
     }
