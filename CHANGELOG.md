@@ -1,3 +1,12 @@
+# [0.7.0](https://github.com/kazupon/sandbox-shipjs/compare/v0.6.0...v0.7.0) (2019-10-27)
+
+
+### Features
+
+* update branch strategy ([2ea92a7](https://github.com/kazupon/sandbox-shipjs/commit/2ea92a7fa7d97c08c4f3ae4d6d2fb4b98a7bc9af))
+
+
+
 # [0.6.0](https://github.com/kazupon/sandbox-shipjs/compare/v0.5.0...v0.6.0) (2019-10-27)
 
 
