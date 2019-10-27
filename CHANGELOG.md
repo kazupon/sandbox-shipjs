@@ -1,3 +1,13 @@
+# [0.6.0](https://github.com/kazupon/sandbox-shipjs/compare/v0.5.0...v0.6.0) (2019-10-27)
+
+
+### Features
+
+* foo ([062c9d2](https://github.com/kazupon/sandbox-shipjs/commit/062c9d202c00bc73422b3c3a7094d67ac1f37099))
+* update config ([dd6215a](https://github.com/kazupon/sandbox-shipjs/commit/dd6215a535d033af9ef8b28c540c2b764e46fd75))
+
+
+
 # [0.5.0](https://github.com/kazupon/sandbox-shipjs/compare/v0.4.0...v0.5.0) (2019-10-27)
 
 
