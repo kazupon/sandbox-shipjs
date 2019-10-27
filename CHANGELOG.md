@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/kazupon/sandbox-shipjs/compare/v0.1.1...v0.2.0) (2019-10-27)
+
+
+### Features
+
+* **config:** add shipjs configration ([1bfb9aa](https://github.com/kazupon/sandbox-shipjs/commit/1bfb9aa25744a4ce0fb41fdf8c0e59a36b724fb3))
+
+
+
 ## [0.1.1](https://github.com/kazupon/sandbox-shipjs/compare/v0.1.0...v0.1.1) (2019-10-26)
 
 
