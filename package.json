@@ -1,6 +1,6 @@
 {
   "name": "sandbox-shipjs",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "This is sandbox of shipjs",
   "main": "index.js",
   "private": true,
