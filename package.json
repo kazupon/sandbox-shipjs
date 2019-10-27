@@ -5,6 +5,8 @@
   "main": "index.js",
   "private": true,
   "scripts": {
+    "test": "echo foo",
+    "build": "echo building ...",
     "release:prepare": "shipjs prepare",
     "release:trigger": "shipjs trigger"
   },
