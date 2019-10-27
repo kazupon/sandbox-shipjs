@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/kazupon/sandbox-shipjs/compare/v0.2.0...v0.3.0) (2019-10-27)
+
+
+### Features
+
+* **config:** add branch strategy ([ebf65d9](https://github.com/kazupon/sandbox-shipjs/commit/ebf65d9db3579c856230ae939271c6f95ed6b8a1))
+
+
+
 # [0.2.0](https://github.com/kazupon/sandbox-shipjs/compare/v0.1.1...v0.2.0) (2019-10-27)
 
 
