@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/kazupon/sandbox-shipjs#readme",
   "devDependencies": {
+    "git-commit-message-convention": "git://github.com/kazupon/git-commit-message-convention.git",
     "shipjs": "^0.8.0"
   }
 }
