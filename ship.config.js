@@ -1,5 +1,5 @@
 module.exports = {
-  conventionalChangelogArgs: '-i CHANGELOG.md -s -n ./node_modules/git-commit-message-convention/convention.js',
+  //conventionalChangelogArgs: '-i CHANGELOG.md -s -n ./node_modules/git-commit-message-convention/convention.js',
   formatCommitMessage: ({ version, mergeStrategy, baseBranch }) =>
     mergeStrategy.toSameBranch.includes(baseBranch)
       ? `:package: release: v${version}`
