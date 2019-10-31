@@ -1,3 +1,14 @@
+# [0.8.0](https://github.com/kazupon/sandbox-shipjs/compare/v0.7.0...v0.8.0) (2019-10-31)
+
+
+### Bug Fixes
+
+* add commit customizing ([51c1de7](https://github.com/kazupon/sandbox-shipjs/commit/51c1de7a14f62fe4998defa87a31c0015ff1ec90))
+* dependency: add module ([61c0320](https://github.com/kazupon/sandbox-shipjs/commit/61c0320b727f1688c2b1531ac5e6a603afb589b9))
+* disalbe ([91a92c1](https://github.com/kazupon/sandbox-shipjs/commit/91a92c17372cb1b3779a48c321a504d77771a48f))
+
+
+
 # [0.7.0](https://github.com/kazupon/sandbox-shipjs/compare/v0.6.0...v0.7.0) (2019-10-27)
 
 
