@@ -1,3 +1,12 @@
+## [0.8.1](https://github.com/kazupon/sandbox-shipjs/compare/v0.8.0...v0.8.1) (2019-10-31)
+
+
+### Bug Fixes
+
+* update ([19a676d](https://github.com/kazupon/sandbox-shipjs/commit/19a676dbaa71c2e594dfb87f117fdf08c9f88537))
+
+
+
 # [0.8.0](https://github.com/kazupon/sandbox-shipjs/compare/v0.7.0...v0.8.0) (2019-10-31)
 
 
